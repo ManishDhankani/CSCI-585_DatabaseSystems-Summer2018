@@ -1,1 +1,2 @@
 # CSCI-585_DatabaseSystems-Summer2018
+The repository contains assignments of course Database Systems CSCI-585 that I took at the University of Southern California. The course covered topics like Data modeling, Relational DB Model, SQL, Normalization, Business Intelligence, Spatial Databases, NoSQL DBs, Big Data, Data Science, MapReduce, Data Mining. The course covered four assignments that are created as separate folders in the repository.
